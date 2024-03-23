@@ -1,7 +1,7 @@
 import './resources/scss/main.scss';
 import Alpine from 'alpinejs';
 
-import calendar from './resources/js/calendar';
+import test from './resources/js/test';
 
-Alpine.data('calendar', calendar);
+Alpine.data('test', test);
 Alpine.start();
